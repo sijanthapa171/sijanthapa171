@@ -1,4 +1,4 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=SIJAN%20&text2=💖%20A%Welcome to my %20web%favourite place!&width=900&height=400)
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=SIJAN%20&text2=💖%20A%WelcomeToMy%20web%FavouritePlace!&width=900&height=400)
 
 ## 💻 Technologies
 
