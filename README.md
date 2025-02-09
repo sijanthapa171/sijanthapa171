@@ -53,11 +53,11 @@ class Attributes extends Tekky {
     return {
       langs: {
         expert: ["JavaScript/TypeScript"],
-        intermediate: ["Go", "C++"],
-        learning: ["Rust", "Nix", "C#", "HTMX", "Java"],
+        intermediate: ["Pyth", "C++"],
+        learning: ["Rust", "Nix", "C#", "Go", "Java"],
       },
       specialities: ["web/app", "fullstack", "Linux"],
-      ide: ["VS Code"],
+      ide: ["NeoVim, VS Code, "],
       pc: {
         NixOS: {
           Desktop: {
