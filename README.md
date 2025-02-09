@@ -78,7 +78,7 @@ class Attributes extends Tekky {
 
 ```
 
-</ br>
+<br>
 
 ## Skills
 
