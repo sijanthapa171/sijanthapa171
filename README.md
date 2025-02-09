@@ -1,4 +1,4 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=SIJAN%20&text2=💖%20A%20Software%20web%20developer&width=1000&height=400)
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=SIJAN%20&text2=💖%20A%20Software%20developer&width=1000&height=400)
 
 
 <h2 align="center">About Me </h2>
