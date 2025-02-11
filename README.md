@@ -67,9 +67,9 @@ class Attributes extends Tekky {
           },
         },
         Laptop: {
-          processor: "AMD Ryzen 7 5800X | 8 cores",
+          processor: "",
           ram: "16GB",
-          gpu: "NVIDIA RTX 3070 | 5888 CUDA cores",
+          gpu: "",
         },
       },
     };
