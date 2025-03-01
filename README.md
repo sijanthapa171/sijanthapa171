@@ -2,6 +2,7 @@
 
 
 <br>
+ 
 
 ## Skills
 
@@ -9,6 +10,7 @@
     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,vite,tailwind,styledcomponents,sass,materialui,supabase,mongodb,git,github,vscode,figma,c,cpp,photoshop,bun,rust,python,blender&perline=16" />
   </a>
 
+![](https://komarev.com/ghpvc/?username=thapasijan17)
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
