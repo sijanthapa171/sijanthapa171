@@ -1,4 +1,4 @@
-![banner](banner.png)
+![banner](assets/banner.png)
 
 # Hi there! 👋
 
@@ -10,6 +10,7 @@
 
 <p align="center">
   <a><img alt="Thapasijan17's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=thapasijan17&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=A594FD" height="192px"/></a>
+  <img alt="This is me!" src="assets/idx.png" height="202px">
 </p>
 
 <p align="center">
