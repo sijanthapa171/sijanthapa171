@@ -1,12 +1,14 @@
 ![banner](assets/banner.png)
 
 # Hi there! 👋
+![](https://komarev.com/ghpvc/?username=thapasijan17)
 
 <p align="center">
   I'm <strong>Sijan</strong>, a developer from Nepal, enthusiastic about nix, golang & JS/TS and many more. ☁️ 
   <br/>I enjoy the challenge of reimagining existing apps & scripts in my own unique way.
   <br/>By creating these projects from scratch, I can ensure complete control over every aspect of their design and functionality.
 </p>
+
 
 <p align="center">
   <img alt="This is me!" src="assets/idx1.png" height="196px">
