@@ -18,6 +18,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nix,golang,bash,linux,svelte,git,rust,ae,neovim,docker,ae,blender,bun,c,cpp,cloudflare,debian,discord,express,figma,graphql,ai,java,lua,mongodb,mysql,nextjs,nginx,nodejs,nuxtjs,ps,pnpm,postgres,powershell,pr,prisma,react,redux,sqlite,sass,supabase,tailwind,threejs,vercel,aws,vite,webpack,yarn&perline=16" />
+    <img src="https://skillicons.dev/icons?i=nix,c,cpp,lua,golang,bash,linux,svelte,git,neovim,docker,bun,cloudflare,debian,express,figma,graphql,mongodb,mysql,nextjs,nodejs,pnpm,postgres,prisma,react,redux,sqlite,tailwind,vercel,yarn&perline=10" />
   </a>
 </p>
