@@ -11,9 +11,9 @@
 
 
 <p align="center">
-  <img alt="This is me!" src="assets/idx1.png" height="196px">
+  <img alt="This is me!" src="assets/_2.png" height="196px">
   <a><img alt="Thapasijan17's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=thapasijan17&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=A594FD" height="192px"/></a>
-  <img alt="This is me!" src="assets/idx.png" height="196px">
+  <img alt="This is me!" src="assets/_1.png" height="196px">
 </p>
 
 <p align="center">
