@@ -16,8 +16,9 @@
   <img alt="This is me!" src="assets/2.png" height="190px">
 </p>
 
+<h1 align="center">Languages : whyyyyyyyy?</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nix,c,cpp,lua,golang,bash,linux,svelte,git,neovim,docker,bun,cloudflare,debian,express,figma,graphql,mongodb,mysql,nextjs,nodejs,pnpm,postgres,prisma,react,redux,sqlite,tailwind,vercel,yarn&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nix,c,cpp,lua,golang,ts,js,astro,bash,&perline=10" />
   </a>
 </p>
