@@ -1,7 +1,7 @@
 ![banner](assets/banner.png)
 
-<img align="left" src="https://raw.githubusercontent.com/thapasijan17/thapasijan17/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only">
-<img align="left" src="https://raw.githubusercontent.com/thapasijan17/thapasijan17/refs/heads/master/assets/ratatui-spin-light.gif#gh-light-mode-only">
+<img align="left" src="https://raw.githubusercontent.com/thapasijan17/thapasijan17/refs/heads/main/assets/ratatui-spin-dark.gif#gh-dark-mode-only">
+<img align="left" src="https://raw.githubusercontent.com/thapasijan17/thapasijan17/refs/heads/main/assets/ratatui-spin-light.gif#gh-light-mode-only">
 
 ### Hey!
 
@@ -15,18 +15,13 @@ Next.js developer as a programmer and innovator. He loves traveling, exploring n
 
 <br>
 
-# Hi there! 👋
-![](https://komarev.com/ghpvc/?username=thapasijan17)
-
 <p align="center">
-  I'm <strong>Sijan</strong>, a developer from Nepal, enthusiastic about nix, golang & JS/TS and many more. ☁️ 
+  A developer from Nepal, enthusiastic about nix, golang & JS/TS and many more. ☁️ 
   <br/>I enjoy the challenge of reimagining existing apps & scripts in my own unique way.
   <br/>By creating these projects from scratch, I can ensure complete control over every aspect of their design and functionality.
 </p>
 
 #### ⚡ Stats
-
-I joined GitHub **8** years ago and since then I have pushed **28062** commits, opened **606** issues, submitted **1492** PRs, received **19152** stars across **132** personal projects and contributed to **228** public repositories.
 
 <p align="center">
   <img alt="This is me!" src="assets/1.png" height="190px">
