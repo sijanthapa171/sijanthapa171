@@ -1,7 +1,7 @@
 ![banner](assets/banner.png)
 
-<img align="left" src="https://raw.githubusercontent.com/authxth/authxth/refs/heads/main/assets/ratatui-spin-dark.gif#gh-dark-mode-only">
-<img align="left" src="https://raw.githubusercontent.com/authxth/authxth/refs/heads/main/assets/ratatui-spin-light.gif#gh-light-mode-only">
+<img align="left" src="https://raw.githubusercontent.com/authxt/authxt/refs/heads/main/assets/ratatui-spin-dark.gif#gh-dark-mode-only">
+<img align="left" src="https://raw.githubusercontent.com/authxt/authxt/refs/heads/main/assets/ratatui-spin-light.gif#gh-light-mode-only">
 
 ### Hey!
 
@@ -11,7 +11,7 @@ Next.js developer as a programmer and innovator. He loves traveling, exploring n
 
 🐁 I work on terminal and Neovim.
 
- [![views](https://komarev.com/ghpvc/?username=authxth&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/authxth) [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131)](https://github.com/grindhousedev/grindlines)
+ [![views](https://komarev.com/ghpvc/?username=authxt&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/authxt) [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131)](https://github.com/grindhousedev/grindlines)
 
 <br>
 
@@ -25,7 +25,7 @@ Next.js developer as a programmer and innovator. He loves traveling, exploring n
 
 <p align="center">
   <img alt="This is me!" src="assets/1.png" height="190px">
-  <a><img alt="authxth's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=authxth&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=A594FD" height="192px"/></a>
+  <a><img alt="authxt's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=authxt&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=A594FD" height="192px"/></a>
   <img alt="This is me!" src="assets/2.png" height="190px">
 </p>
 
