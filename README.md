@@ -23,11 +23,7 @@ Next.js developer as a programmer and innovator. He loves traveling, exploring n
 
 #### ⚡ Stats
 
-<p align="center">
-  <img alt="This is me!" src="assets/1.png" height="190px">
-  <a><img alt="authxt's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=authxt&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=A594FD" height="192px"/></a>
-  <img alt="This is me!" src="assets/2.png" height="190px">
-</p>
+
 
 <h1 align="center">Languages : whyyyyyyyy?</h1>
 <p align="center">
