@@ -25,10 +25,10 @@ Next.js developer as a programmer and innovator. He loves traveling, exploring n
 
 
 
-<h1 align="center">Languages : whyyyyyyyy?</h1>
+<h1 align="center">Languages : Little?</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nix,c,cpp,lua,golang,ts,astro,bash,rust,&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nix,c,cpp,lua,golang,ts,rust,&perline=10" />
   </a>
 </p>
 
