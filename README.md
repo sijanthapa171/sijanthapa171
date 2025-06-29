@@ -5,7 +5,7 @@
 
 ### Hey!
 
-👾 I'm **AuthX**.
+👾 I'm **SIJANツ**.
 
 Next.js developer as a programmer and innovator. He loves traveling, exploring new places and seeking inspiration in new projects. He is driven by the necessity to make his creative concepts real.
 
@@ -23,15 +23,12 @@ Next.js developer as a programmer and innovator. He loves traveling, exploring n
 
 #### ⚡ Stats
 
-
-
 <h1 align="center">Languages : Little?</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nix,c,cpp,lua,golang,ts,rust,&perline=10" />
   </a>
 </p>
-
 
  <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
  
