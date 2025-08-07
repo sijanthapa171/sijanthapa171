@@ -7,7 +7,7 @@
 
 👾 I'm **SIJANツ**.
 
-Next.js developer as a programmer and innovator. He loves traveling, exploring new places and seeking inspiration in new projects. He is driven by the necessity to make his creative concepts real.
+Programmer and innovator. He loves traveling, exploring new places and seeking inspiration in new projects. He is driven by the necessity to make his creative concepts real.
 
 🐁 I work on terminal and Neovim.
 
@@ -16,7 +16,7 @@ Next.js developer as a programmer and innovator. He loves traveling, exploring n
 <br>
 
 <p align="center">
-  A developer from Nepal, enthusiastic about nix, golang & JS/TS and many more. ☁️ 
+  A developer from Nepal, enthusiastic about nix, lua and many more. ☁️ 
   <br/>I enjoy the challenge of reimagining existing apps & scripts in my own unique way.
   <br/>By creating these projects from scratch, I can ensure complete control over every aspect of their design and functionality.
 </p>
@@ -26,7 +26,7 @@ Next.js developer as a programmer and innovator. He loves traveling, exploring n
 <h1 align="center">Languages : Little?</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nix,c,cpp,lua,golang,ts,rust,&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nix,c,cpp,lua,ts,&perline=10" />
   </a>
 </p>
 
