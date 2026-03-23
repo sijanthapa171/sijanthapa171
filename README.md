@@ -28,6 +28,3 @@ Programmer and innovator. He loves traveling, exploring new places and seeking i
 | ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Lua](https://skillicons.dev/icons?i=lua)  ![Bash](https://skillicons.dev/icons?i=bash) | ![Firebase](https://skillicons.dev/icons?i=firebase) ![Docker](https://skillicons.dev/icons?i=docker) ![CMake](https://skillicons.dev/icons?i=cmake) | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Replit](https://skillicons.dev/icons?i=replit) ![Notion](https://skillicons.dev/icons?i=notion) | ![Nix](https://skillicons.dev/icons?i=nix) ![BSD](https://skillicons.dev/icons?i=bsd) ![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi) ![Kali](https://skillicons.dev/icons?i=kali) |
 
 ---
-
- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
- 
