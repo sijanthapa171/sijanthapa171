@@ -20,11 +20,4 @@ Programmer and innovator. He loves traveling, exploring new places and seeking i
 </p>
 
 ---
-## 🧰 Tech Toolbox
 
-| Languages | Tools & Frameworks | Dev & Design | OS & Environments |
-|----------|--------------------|--------------|-------------------|
-| ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp)![Python](https://skillicons.dev/icons?i=python) | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Astro](https://skillicons.dev/icons?i=astro) ![Express](https://skillicons.dev/icons?i=express) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![React](https://skillicons.dev/icons?i=react) | ![Figma](https://skillicons.dev/icons?i=figma) ![Vim](https://skillicons.dev/icons?i=vim) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Obsidian](https://skillicons.dev/icons?i=obsidian) | ![Linux](https://skillicons.dev/icons?i=linux) ![Arch](https://skillicons.dev/icons?i=arch) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) ![Debian](https://skillicons.dev/icons?i=debian) |
-| ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Lua](https://skillicons.dev/icons?i=lua)  ![Bash](https://skillicons.dev/icons?i=bash) | ![Firebase](https://skillicons.dev/icons?i=firebase) ![Docker](https://skillicons.dev/icons?i=docker) ![CMake](https://skillicons.dev/icons?i=cmake) | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Replit](https://skillicons.dev/icons?i=replit) ![Notion](https://skillicons.dev/icons?i=notion) | ![Nix](https://skillicons.dev/icons?i=nix) ![BSD](https://skillicons.dev/icons?i=bsd) ![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi) ![Kali](https://skillicons.dev/icons?i=kali) |
-
----
