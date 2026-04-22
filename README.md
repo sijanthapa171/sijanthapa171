@@ -18,6 +18,3 @@ Programmer and innovator. He loves traveling, exploring new places and seeking i
   <br/>I enjoy the challenge of reimagining existing apps & scripts in my own unique way.
   <br/>By creating these projects from scratch, I can ensure complete control over every aspect of their design and functionality.
 </p>
-
----
-
